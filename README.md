@@ -3,7 +3,7 @@ Snippets to help write well-documented and clear IncludeText.
 
 Install using Package Control or clone the repository to `~/Library/Application Support/Sublime Text 2/Packages/User/`
 
-###### This gives you access to a couple of tab triggers: 
+#### This gives you access to a couple of tab triggers: 
 *`IncludeHeader`, 
 *`IncludeIF`,
 *`IncludeCASE`,
