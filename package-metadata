@@ -1,1 +1,7 @@
-{"description": "Snippets to help create IncludeText.", "url": "https://github.com/cabaret/html-email-snippets", "platforms": ["windows"], "version": "2015", "sublime_text": "<3000", "dependencies": [Foxcode]}
+  {"description": "Snippets to help create IncludeText.",
+  "url": "https://github.com/cabaret/html-email-snippets",
+  "platforms": ["windows"],
+  "version": "2015.07",
+  "sublime_text": "<3000",
+  "dependencies": [Foxcode]
+}
