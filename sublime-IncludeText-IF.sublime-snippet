@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+		IF ${1:logicalExpression}  && logical expression being evaluated 
+
+		      ${2:commandsWhenIF=T}  && commands executed when logicalExpression is TRUE
+
+		ELSE
+
+		      ${3:commandsWhenIF=F}  && commands executed when logicalExpression is FALSE
+
+		ENDIF
+
+		${4}
+]]></content>
+	<!-- tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>IncIF</tabTrigger>
+	<!-- scope to limit where the snippet will trigger -->
+	<scope>source.VisualFoxPro</scope>
+</snippet>
+
+
